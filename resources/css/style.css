@@ -229,8 +229,8 @@ input[type=submit]:active {
 /* ----------------------------------------------------- */
 
 header {
-	background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url(img/stormy-clouds-min.jpg);
-	background-image: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url(img/stormy-clouds-min.jpg);
+	background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url(img/DSC_0764-min.JPG);
+	background-image: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url(img/DSC_0764-min.JPG);
 	background-attachment: fixed;
 	background-size: cover;
 	background-position: center;
